@@ -6,4 +6,4 @@ Skitlearn library is used to perform different tasks related to machine learning
 
 It uses Multinomial Naive Bayes algorithm.
 
-It has three different files with similar codes with specific differences
+It has different files with similar codes with specific differences.
